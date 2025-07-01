@@ -39,7 +39,7 @@ The goal of this project was to demonstrate real-world full-stack skills by:
 
 ## 🚀 Live Demo
 
-> 🌐 [Frontend (Vercel)](https://authify-smart-auth-system.vercel.app/)  
+> 🌐 Frontend: (https://authify-smart-auth-system.vercel.app/)  
 > ⚙️ [Backend (Render)]() (for testing)
 
 ---
