@@ -7,11 +7,11 @@ app.use(cors());
 app.use(express.json());
 
 // ✅ Serve static files from /frontend
-app.use(express.static(path.join(__dirname, 'frontend')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 // ✅ Optional: handle unknown routes and serve index.html (for client-side routing)
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'frontend', 'index.html'));
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 // Dummy in-memory user store
