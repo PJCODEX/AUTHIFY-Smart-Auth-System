@@ -83,6 +83,35 @@ The goal of this project was to demonstrate real-world full-stack skills by:
 
 ---
 
+## 🤝 Contribution Guide
+Want to suggest a new feature or fix a bug?
+ 1. Fork the repo on GitHub:
+ Visit: **https://github.com/PJCODEX/AUTHIFY-Smart-Auth-System.git** and click the "Fork" button (top-right)
+
+ 2. Clone your fork
+**git clone https://github.com/your-username/AUTHIFY-Smart-Auth-System.git** <br> 
+cd Feedback-Fusion</br>
+
+ 3. Create a new feature or bugfix branch
+**git checkout -b feature/your-feature-name**
+ 4. Make your changes
+(Open and edit files as needed using your code editor)
+
+ 5. Stage and commit your changes
+**git add .
+git commit -m "Add: Your short and meaningful description"**
+
+ 6. Push your changes to your fork
+**git push origin feature/your-feature-name**
+
+ 7. Open a Pull Request
+ - Go to your forked repo on GitHub
+ - Click "Compare & pull request"
+ - Add a clear title and description 
+ - Submit the PR to the original repo (PJCODEX/AUTHIFY-Smart-Auth-System)
+ - 
+---
+
 ## 📦 How to Run Locally
 
 ### 🔧 Frontend
@@ -101,26 +130,5 @@ node server.js
 Then visit: http://localhost:3000
 
 ---
-
-## 🌟 Support & Contribute
-
-If you found this project helpful or interesting:
-
-- ⭐ **Star** this repo to show your support!
-- 🍴 **Fork** it to explore and build your own version.
-- 🛠️ **Contribute** by improving the code, fixing bugs, or adding features.
-
-### 🤝 How to Contribute
-
-1. Fork this repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
-All contributions are welcome! 🎉
-
----
-
 
 
