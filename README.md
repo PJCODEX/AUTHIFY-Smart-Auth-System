@@ -109,7 +109,7 @@ git commit -m "Add: Your short and meaningful description"**
  - Click "Compare & pull request"
  - Add a clear title and description 
  - Submit the PR to the original repo (PJCODEX/AUTHIFY-Smart-Auth-System)
- - 
+   
 ---
 
 ## 📦 How to Run Locally
@@ -128,7 +128,5 @@ cd backend
 npm install
 node server.js
 Then visit: http://localhost:3000
-
----
 
 
