@@ -1,6 +1,6 @@
 # 🔐 Authify – Full-Stack Form Validation & Dynamic DOM App
 
-> ✅ Internship Project for Cognifyz – Task 4: Complex Form Validation & Dynamic DOM Manipulation
+>  Internship Project for Cognifyz – Task 4: Complex Form Validation & Dynamic DOM Manipulation
 
 ---
 
@@ -17,12 +17,12 @@ The goal of this project was to demonstrate real-world full-stack skills by:
 
 ## 🧠 Key Features
 
-- 🔒 **Real-time Password Strength Meter** (Live feedback on weak/medium/strong)
-- 👁️ **Password Toggle Visibility** (Show/hide password)
-- 🧭 **Client-side Routing** (Hash-based navigation: login, register, dashboard)
-- ✅ **Email Format Validation** (Regex-based)
-- 🔁 **Login/Register API Integration** (with mock backend,in memory storage)
-- 💬 **Live Error Feedback** (Empty field checks, mismatch handling)
+-  **Real-time Password Strength Meter** (Live feedback on weak/medium/strong)
+-  **Password Toggle Visibility** (Show/hide password)
+-  **Client-side Routing** (Hash-based navigation: login, register, dashboard)
+-  **Email Format Validation** (Regex-based)
+-  **Login/Register API Integration** (with mock backend,in memory storage)
+-  **Live Error Feedback** (Empty field checks, mismatch handling)
 
 ---
 
